@@ -1,2 +1,2 @@
 # learning
-Practical purpose
+Learning steps for Practical purpose.
